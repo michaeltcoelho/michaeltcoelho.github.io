@@ -36,7 +36,7 @@ Conceitualmente…
 
 Para uma melhor visualização segue a figura abaixo:
 
-![1](object-reference.png "Nomes e Objetos")
+![1](/public/img/object-reference.png "Nomes e Objetos")
 
 Os vínculos das variáveis para os objetos no Python são chamados de referências, um tipo de associação entre o nome e o objeto. 
 
@@ -52,7 +52,7 @@ Declarando:
 
 Declarando essas instruções, geramos o cenário capturado na figura abaixo.
 
-![1](object-same-reference.png "Nomes e objetos, b = a")
+![1](/public/img/object-same-reference.png "Nomes e objetos, b = a")
 
 Na segunda linha o Python cria a variável `b` e atribui a esse nome a variável `a`, ao mesmo tempo a mesma é substituída pelo objeto que a mesma referencia - `3`, agora `b` faz referencia ao mesmo objeto que a variável `a`. As variáveis `a` e `b` fazem referência ao mesmo objeto, isto é chamado de ***referência compartilhada*** no Python - vários nomes referenciando o mesmo objeto.
 
@@ -68,7 +68,7 @@ Assim como em todas as atribuições do Python, isso simplesmente irá criar um 
 
 Podemos ver melhor na figura abaixo:
 
-![1](object-reference-change.png "alterando a = "abobrinha" ")
+![1](/public/img/object-reference-change.png "alterando a = "abobrinha" ")
 
 ##Referência e objetos mutáveis
 
