@@ -3,5 +3,5 @@ pygments: true
 markdown: kramdown
 title: Michael Coelho
 tagline: python
-description: My awesome new site via <a href="https://tinypress.co/&quot; target=&quot;_blank">Tinypress</a>
+description: Um simples site onde costumo escrever coisas
 paginate: 5
